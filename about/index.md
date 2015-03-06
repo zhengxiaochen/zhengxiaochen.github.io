@@ -19,6 +19,6 @@ This website is developed to record and share my research, travelling and many o
 * Find my travelling blogs on [穷游](http://www.qyer.com/u/5495648). 
 * More information is coming...
 
----
+<!--
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
----
+-->
