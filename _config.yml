@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Zheng Xiaochen
+title:            Xiaochen's World
 locale:           en_US
-url:              http://zhengxiaochen.github.io/
+url:              http://zhengxiaochen.github.io
 
 
 # Jekyll configuration
@@ -28,9 +28,9 @@ kramdown:
 owner:
   name: Zheng Xiaochen
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
+  bio: "Just another KUBI PhD student. 苦逼博士一枚"
+  email: hellozhengxiaochen@gmail.com
+  disqus-shortname: Xiaochen
   twitter: #Xiaochen Zheng
   facebook: #Xiaochen Zheng
   google:
@@ -40,8 +40,8 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+  github: #zhengxiaochen
+  stackoverflow: #http://stackoverflow.com/users/3112200/zheng-xiaochen
   linkedin: #username
   instagram: #username
   lastfm: #username

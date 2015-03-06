@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About Me
+tags: [about, Jekyll, author, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
@@ -10,16 +10,15 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I am a PhD student of UPM, focusing on Internet of Things, Machine Learning and Wearable Technologies. Like travelling, cycling and basketball.
+This website is developed to record and share my research, travelling and many other interesting things.  
 
-## Minimal Mistakes is all about:
+## Find more about me:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Find me on [Facebook](https://www.facebook.com/xiaochen.zheng.5).
+* Find my travelling blogs on [穷游](http://www.qyer.com/u/5495648). 
+* More information is coming...
 
+---
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+---
