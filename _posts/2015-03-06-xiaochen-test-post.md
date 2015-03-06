@@ -5,11 +5,8 @@ excerpt: "This is a test post from Xiachen."
 modified: 2015-03-06
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
-image:
-  feature: desert.jpg  
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/  
 ---
+
 # Welcome
 Welcome to Xiaochen's personal website.
 
@@ -21,7 +18,8 @@ I am do research about 'IoT' and wearable technologies.
 
 ## Travelling
 
-啥也别说了，直接上图。
+啥也别说了，直接上图.  
+
 ![Smithsonian Image]({{ site.url }}/images/desert.jpeg)
 {: .image-pull-right}
 
