@@ -6,9 +6,11 @@ modified: 2015-03-06
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 image:
-  feature: desert.jpg  
+  feature: desert.jpg
+  <!--
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/  
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  -->
 ---
 # Welcome
 Welcome to Xiaochen's personal website.
