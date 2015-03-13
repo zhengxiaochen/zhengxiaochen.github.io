@@ -10,13 +10,18 @@ image:
   creditlink: 
 ---
 
-I am a PhD student of UPM, focusing on Internet of Things, Machine Learning and Wearable Technologies. Like travelling, cycling and basketball.
-This website is developed to record and share my research, travelling and many other interesting things.  
+I am a PhD student of UPM, focusing on Internet of Things, Machine Learning and Wearable Technologies. I was born in Shandong Province of China and graduated from Shandong University. I Like travelling, cycling and basketball.
+
+This website is developed to record and share my research, travelling and all kinds of interesting things in my life.  You can find more inforamtion ablut me by the following links.  
 
 ## Find more about me:
 
 * Find me on [Facebook](https://www.facebook.com/xiaochen.zheng.5).
-* Find my travelling blogs on [穷游](http://www.qyer.com/u/5495648). 
-* More information is coming...
+* Find me on [stackoverflow](http://stackoverflow.com/users/3112200/zheng-xiaochen).
+* Find me on [Pebble Forum](http://forums.getpebble.com/profile/discussions/50638/UPMZheng).
+* Find my travelling blogs (in Chinese) on [qyer](http://www.qyer.com/u/5495648). 
+* Following me on Twitter: Xiaochen Zheng @X92153941.
+* Following me on WeChat: Hellozhengxiaochen.
+
 
 <!-- <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a> -->
