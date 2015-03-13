@@ -5,9 +5,9 @@ tags: [about, Jekyll, author, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: sample-image-1.jpg
+  credit: OnTheWayToTibet
+  creditlink: 
 ---
 
 I am a PhD student of UPM, focusing on Internet of Things, Machine Learning and Wearable Technologies. Like travelling, cycling and basketball.
